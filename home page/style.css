@@ -1,0 +1,41 @@
+h1{
+    font-family:'Merriweather';
+    font-size: 48px;
+}
+
+p{
+    font-family:'Merriweather';
+    font-size: 24px;
+}
+
+a{
+    font-family: 'Merriweather';
+    font-size: 18px;
+    color: darkgreen;
+}
+body
+{
+    background-color: royalblue;
+}
+
+main
+{
+    background-color: #95B8D1;
+    width: 80vw;
+    height: 80vw;
+    padding: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.center{float: inherit; margin-left: 300px;}
+
+img.leftside{float: left; margin-top: 20px}
+
+
+
+
+
+
