@@ -1,0 +1,38 @@
+/* Do everything in this file */
+h2{
+    border-bottom: 1px solid red;
+    clear: right;
+}
+
+
+h3{
+    border-bottom: 1px solid red;   
+}
+
+
+figure{
+  float: right;
+    width: 40vw; 
+
+}
+
+figure img{width: 30vw; margin-left: 10px;}
+
+
+div
+{
+    float: left;
+    border: 1px solid black;
+    width: 20vw;
+}
+
+div img{width:  10vw}
+
+footer{
+ 
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: -1;
+}
+
